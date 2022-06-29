@@ -225,9 +225,5 @@ a {
 /* FOOTER */
 
 .attribution {
-  position: absolute;
-  top: 90%;
-  right: 5%;
-  font-family: 'Montserrat';
-  font-size: 0.5rem;
+  display: none;
 }
