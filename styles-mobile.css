@@ -61,6 +61,10 @@ h3 {
   color: #6C7289;
 }
 
+a {
+  text-decoration: none;
+}
+
 .card {
   border-radius: 10px;
 }
